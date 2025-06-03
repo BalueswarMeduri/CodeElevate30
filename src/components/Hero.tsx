@@ -30,10 +30,10 @@ export const Hero: React.FC = () => {
               </div>
             </div>
             
-            <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight">
+            <h1 className="text-4xl md:text-7xl font-bold text-white leading-tight">
               CodeElevate
               <span className="pl-1 text-amber-900">30</span>
-              <h2 className=' pt-2 block md:text-4xl md:text-yellow-700'>By Golden Opportunities</h2>
+              <h2 className=' pt-2 block text-2xl md:text-4xl text-yellow-700'>By Golden Opportunities</h2>
             </h1>
             
             <p className="text-xl text-amber-900 max-w-2xl mx-auto">
