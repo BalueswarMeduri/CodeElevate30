@@ -92,12 +92,33 @@ export const challengeData: Challenge[] = [
     }
   ]
 },
-  {
-    day: 4,
-    date: "Jun 04, 2025",
-    topic: "Sliding Window",
-    questions: []
-  },
+ {
+  day: 4,
+  date: "Jun 04, 2025",
+  topic: "Sliding Window",
+  questions: [
+    {
+      title: "Longest Substring Without Repeating Characters",
+      leetCodeLink: "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      title: "Longest Repeating Character Replacement",
+      leetCodeLink: "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+      title: "Maximum Number of Occurrences of a Substring",
+      leetCodeLink: "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/"
+    },
+    {
+      title: "Max Consecutive Ones III",
+      leetCodeLink: "https://leetcode.com/problems/max-consecutive-ones-iii/"
+    },
+    {
+      title: "Minimum Size Subarray Sum",
+      leetCodeLink: "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    }
+  ]
+},
   {
     day: 5,
     date: "Jun 05, 2025",
