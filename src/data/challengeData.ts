@@ -120,11 +120,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 5,
-    date: "Jun 05, 2025",
-    topic: "Prefix Sum",
-    questions: []
-  },
+  day: 5,
+  date: "Jun 05, 2025",
+  topic: "Prefix Sum",
+  questions: [
+    {
+      title: "Range Sum Query - Immutable",
+      leetCodeLink: "https://leetcode.com/problems/range-sum-query-immutable/"
+    },
+    {
+      title: "Left and Right Sum Differences",
+      leetCodeLink: "https://leetcode.com/problems/left-and-right-sum-differences/"
+    },
+    {
+      title: "Count Vowel Strings in Ranges",
+      leetCodeLink: "https://leetcode.com/problems/count-vowel-strings-in-ranges/"
+    },
+    {
+      title: "Minimum Penalty for a Shop",
+      leetCodeLink: "https://leetcode.com/problems/minimum-penalty-for-a-shop/"
+    },
+    {
+      title: "Find Good Days to Rob the Bank",
+      leetCodeLink: "https://leetcode.com/problems/find-good-days-to-rob-the-bank/"
+    }
+  ]
+},
   {
     day: 6,
     date: "Jun 06, 2025",
