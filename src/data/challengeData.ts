@@ -147,11 +147,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 6,
-    date: "Jun 06, 2025",
-    topic: "Prefix Sum",
-    questions: []
-  },
+  day: 6,
+  date: "Jun 06, 2025",
+  topic: "Prefix Sum",
+  questions: [
+    {
+      title: "Product of Array Except Self",
+      leetCodeLink: "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+      title: "Subarray Sums Divisible by K",
+      leetCodeLink: "https://leetcode.com/problems/subarray-sums-divisible-by-k/"
+    },
+    {
+      title: "Removing Minimum Number of Magic Beans",
+      leetCodeLink: "https://leetcode.com/problems/removing-minimum-number-of-magic-beans/"
+    },
+    {
+      title: "Movement of Robots",
+      leetCodeLink: "https://leetcode.com/problems/movement-of-robots/"
+    },
+    {
+      title: "Find All Good Indices",
+      leetCodeLink: "https://leetcode.com/problems/find-all-good-indices/"
+    }
+  ]
+},
   {
     day: 7,
     date: "Jun 07, 2025",
