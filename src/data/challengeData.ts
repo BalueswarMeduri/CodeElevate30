@@ -174,11 +174,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 7,
-    date: "Jun 07, 2025",
-    topic: "Hashing",
-    questions: []
-  },
+  day: 7,
+  date: "Jun 07, 2025",
+  topic: "Hashing",
+  questions: [
+    {
+      title: "Find Common Elements Between Two Arrays",
+      leetCodeLink: "https://leetcode.com/problems/intersection-of-two-arrays/"
+    },
+    {
+      title: "Contains Duplicate",
+      leetCodeLink: "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+      title: "Sum of Unique Elements",
+      leetCodeLink: "https://leetcode.com/problems/sum-of-unique-elements/"
+    },
+    {
+      title: "Check if All Characters Have Equal Number of Occurrences",
+      leetCodeLink: "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/"
+    },
+    {
+      title: "Unique Number of Occurrences",
+      leetCodeLink: "https://leetcode.com/problems/unique-number-of-occurrences/"
+    }
+  ]
+},
   {
     day: 8,
     date: "Jun 08, 2025",
