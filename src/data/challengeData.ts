@@ -201,11 +201,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 8,
-    date: "Jun 08, 2025",
-    topic: "Hashing",
-    questions: []
-  },
+  day: 8,
+  date: "Jun 08, 2025",
+  topic: "Hashing",
+  questions: [
+    {
+      title: "Subarray Sum Equals K",
+      leetCodeLink: "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+      title: "Subarray Sums Divisible by K",
+      leetCodeLink: "https://leetcode.com/problems/subarray-sums-divisible-by-k/"
+    },
+    {
+      title: "Make Sum Divisible by P",
+      leetCodeLink: "https://leetcode.com/problems/make-sum-divisible-by-p/"
+    },
+    {
+      title: "Count Number of Bad Pairs",
+      leetCodeLink: "https://leetcode.com/problems/count-number-of-bad-pairs/"
+    },
+    {
+      title: "Continuous Subarray Sum",
+      leetCodeLink: "https://leetcode.com/problems/continuous-subarray-sum/"
+    }
+  ]
+},
   {
     day: 9,
     date: "Jun 09, 2025",
