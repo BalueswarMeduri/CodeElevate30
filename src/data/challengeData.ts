@@ -228,11 +228,28 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 9,
-    date: "Jun 09, 2025",
-    topic: "Binary Search",
-    questions: []
-  },
+  day: 9,
+  date: "Jun 09, 2025",
+  topic: "Binary Search",
+  questions: [
+    {
+      title: "Guess Number Higher or Lower",
+      leetCodeLink: "https://leetcode.com/problems/guess-number-higher-or-lower/"
+    },
+    {
+      title: "Find Smallest Letter Greater Than Target",
+      leetCodeLink: "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+    },
+    {
+      title: "Find First and Last Position of Element in Sorted Array",
+      leetCodeLink: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+    },
+    {
+      title: "Koko Eating Bananas",
+      leetCodeLink: "https://leetcode.com/problems/koko-eating-bananas/"
+    }
+  ]
+},
   {
     day: 10,
     date: "Jun 10, 2025",
