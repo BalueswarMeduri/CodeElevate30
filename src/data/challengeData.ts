@@ -251,11 +251,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 10,
-    date: "Jun 10, 2025",
-    topic: "Binary Search",
-    questions: []
-  },
+  day: 10,
+  date: "Jun 10, 2025",
+  topic: "Binary Search",
+  questions: [
+    {
+      title: "Sell Diminishing-Valued Colored Balls",
+      leetCodeLink: "https://leetcode.com/problems/sell-diminishing-valued-colored-balls/"
+    },
+    {
+      title: "Earliest Second to Mark Indices I",
+      leetCodeLink: "https://leetcode.com/problems/earliest-second-to-mark-indices-i/"
+    },
+    {
+      title: "Minimum Limit of Balls in a Bag",
+      leetCodeLink: "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/"
+    },
+    {
+      title: "Kth Smallest Element in a Sorted Matrix",
+      leetCodeLink: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/"
+    },
+    {
+      title: "Find a Peak Element II",
+      leetCodeLink: "https://leetcode.com/problems/find-a-peak-element-ii/"
+    }
+  ]
+},
   {
     day: 11,
     date: "Jun 11, 2025",
