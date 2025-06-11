@@ -277,12 +277,33 @@ export const challengeData: Challenge[] = [
     }
   ]
 },
-  {
-    day: 11,
-    date: "Jun 11, 2025",
-    topic: "Recursion + Backtracking",
-    questions: []
-  },
+{
+  day: 11,
+  date: "Jun 11, 2025",
+  topic: "Recursion + Backtracking",
+  questions: [
+    {
+      title: "Power of Four",
+      leetCodeLink: "https://leetcode.com/problems/power-of-four/"
+    },
+    {
+      title: "Minimum Non-Zero Product of the Array Elements",
+      leetCodeLink: "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/"
+    },
+    {
+      title: "Predict the Winner",
+      leetCodeLink: "https://leetcode.com/problems/predict-the-winner/"
+    },
+    {
+      title: "Permutations",
+      leetCodeLink: "https://leetcode.com/problems/permutations/"
+    },
+    {
+      title: "Combination Sum II",
+      leetCodeLink: "https://leetcode.com/problems/combination-sum-ii/"
+    }
+  ]
+},
   {
     day: 12,
     date: "Jun 12, 2025",
