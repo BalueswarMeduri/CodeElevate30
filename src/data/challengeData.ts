@@ -305,11 +305,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 12,
-    date: "Jun 12, 2025",
-    topic: "Recursion + Backtracking",
-    questions: []
-  },
+  day: 12,
+  date: "Jun 12, 2025",
+  topic: "Recursion + Backtracking",
+  questions: [
+    {
+      title: "Subsets",
+      leetCodeLink: "https://leetcode.com/problems/subsets/"
+    },
+    {
+      title: "Non-Decreasing Subsequences",
+      leetCodeLink: "https://leetcode.com/problems/non-decreasing-subsequences/"
+    },
+    {
+      title: "Numbers With Same Consecutive Differences",
+      leetCodeLink: "https://leetcode.com/problems/numbers-with-same-consecutive-differences/"
+    },
+    {
+      title: "Subsets II",
+      leetCodeLink: "https://leetcode.com/problems/subsets-ii/"
+    },
+    {
+      title: "Pow(x, n)",
+      leetCodeLink: "https://leetcode.com/problems/powx-n/"
+    }
+  ]
+},
   {
     day: 13,
     date: "Jun 13, 2025",
