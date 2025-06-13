@@ -332,11 +332,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 13,
-    date: "Jun 13, 2025",
-    topic: "Stack",
-    questions: []
-  },
+  day: 13,
+  date: "Jun 13, 2025",
+  topic: "Stack",
+  questions: [
+    {
+      title: "Valid Parentheses",
+      leetCodeLink: "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+      title: "Minimum Add to Make Parentheses Valid",
+      leetCodeLink: "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
+    },
+    {
+      title: "Min Stack",
+      leetCodeLink: "https://leetcode.com/problems/min-stack/"
+    },
+    {
+      title: "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      leetCodeLink: "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/"
+    },
+    {
+      title: "Score of Parentheses",
+      leetCodeLink: "https://leetcode.com/problems/score-of-parentheses/"
+    }
+  ]
+},
   {
     day: 14,
     date: "Jun 14, 2025",
