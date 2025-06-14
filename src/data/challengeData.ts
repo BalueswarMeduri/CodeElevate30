@@ -359,11 +359,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 14,
-    date: "Jun 14, 2025",
-    topic: "Stack",
-    questions: []
-  },
+  day: 14,
+  date: "Jun 14, 2025",
+  topic: "Stack",
+  questions: [
+    {
+      title: "Merge Intervals",
+      leetCodeLink: "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+      title: "Evaluate Reverse Polish Notation",
+      leetCodeLink: "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      title: "Final Prices With a Special Discount in a Shop",
+      leetCodeLink: "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/"
+    },
+    {
+      title: "Next Greater Element II",
+      leetCodeLink: "https://leetcode.com/problems/next-greater-element-ii/"
+    },
+    {
+      title: "Car Fleet",
+      leetCodeLink: "https://leetcode.com/problems/car-fleet/"
+    }
+  ]
+},
   {
     day: 15,
     date: "Jun 15, 2025",
