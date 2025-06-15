@@ -385,12 +385,33 @@ export const challengeData: Challenge[] = [
     }
   ]
 },
-  {
-    day: 15,
-    date: "Jun 15, 2025",
-    topic: "Queue & Deque",
-    questions: []
-  },
+ {
+  day: 15,
+  date: "Jun 15, 2025",
+  topic: "Queue & Deque",
+  questions: [
+    {
+      title: "Implement Stack using Queues",
+      leetCodeLink: "https://leetcode.com/problems/implement-stack-using-queues/"
+    },
+    {
+      title: "Design Circular Queue",
+      leetCodeLink: "https://leetcode.com/problems/design-circular-queue/"
+    },
+    {
+      title: "Implement Queue using Stacks",
+      leetCodeLink: "https://leetcode.com/problems/implement-queue-using-stacks/"
+    },
+    {
+      title: "Design Front Middle Back Queue",
+      leetCodeLink: "https://leetcode.com/problems/design-front-middle-back-queue/"
+    },
+    {
+      title: "Dota2 Senate",
+      leetCodeLink: "https://leetcode.com/problems/dota2-senate/"
+    }
+  ]
+},
   {
     day: 16,
     date: "Jun 16, 2025",
