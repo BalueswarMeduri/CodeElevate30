@@ -413,11 +413,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 16,
-    date: "Jun 16, 2025",
-    topic: "Queue & Deque",
-    questions: []
-  },
+  day: 16,
+  date: "Jun 16, 2025",
+  topic: "Queue & Deque",
+  questions: [
+    {
+      title: "Dota2 Senate",
+      leetCodeLink: "https://leetcode.com/problems/dota2-senate/"
+    },
+    {
+      title: "Design Circular Deque",
+      leetCodeLink: "https://leetcode.com/problems/design-circular-deque/"
+    },
+    {
+      title: "Jump Game VI",
+      leetCodeLink: "https://leetcode.com/problems/jump-game-vi/"
+    },
+    {
+      title: "Continuous Subarrays",
+      leetCodeLink: "https://leetcode.com/problems/continuous-subarrays/"
+    },
+    {
+      title: "Stamping the Sequence",
+      leetCodeLink: "https://leetcode.com/problems/stamping-the-sequence/"
+    }
+  ]
+},
   {
     day: 17,
     date: "Jun 17, 2025",
