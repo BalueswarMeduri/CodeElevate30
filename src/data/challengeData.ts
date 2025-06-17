@@ -440,11 +440,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 17,
-    date: "Jun 17, 2025",
-    topic: "Linked List",
-    questions: []
-  },
+  day: 17,
+  date: "Jun 17, 2025",
+  topic: "Linked List",
+  questions: [
+    {
+      title: "Convert Binary Number in a Linked List to Integer",
+      leetCodeLink: "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/"
+    },
+    {
+      title: "Middle of the Linked List",
+      leetCodeLink: "https://leetcode.com/problems/middle-of-the-linked-list/"
+    },
+    {
+      title: "Linked List Cycle",
+      leetCodeLink: "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+      title: "Reverse Linked List",
+      leetCodeLink: "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+      title: "Remove Nth Node From End of List",
+      leetCodeLink: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    }
+  ]
+},
   {
     day: 18,
     date: "Jun 18, 2025",
