@@ -467,11 +467,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 18,
-    date: "Jun 18, 2025",
-    topic: "Linked List",
-    questions: []
-  },
+  day: 18,
+  date: "Jun 18, 2025",
+  topic: "Linked List",
+  questions: [
+    {
+      title: "Design HashSet",
+      leetCodeLink: "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+      title: "Design HashMap",
+      leetCodeLink: "https://leetcode.com/problems/design-hashmap/"
+    },
+    {
+      title: "Design Browser History",
+      leetCodeLink: "https://leetcode.com/problems/design-browser-history/"
+    },
+    {
+      title: "LRU Cache",
+      leetCodeLink: "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+      title: "All O'one Data Structure",
+      leetCodeLink: "https://leetcode.com/problems/all-oone-data-structure/"
+    }
+  ]
+},
   {
     day: 19,
     date: "Jun 19, 2025",
