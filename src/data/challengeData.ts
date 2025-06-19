@@ -494,11 +494,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 19,
-    date: "Jun 19, 2025",
-    topic: "Trees (Binary Tree)",
-    questions: []
-  },
+  day: 19,
+  date: "Jun 19, 2025",
+  topic: "Trees (Binary Tree)",
+  questions: [
+    {
+      title: "Balanced Binary Tree",
+      leetCodeLink: "https://leetcode.com/problems/balanced-binary-tree/"
+    },
+    {
+      title: "Maximum Depth of Binary Tree",
+      leetCodeLink: "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      title: "Linked List to Binary Tree",
+      leetCodeLink: "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/"
+    },
+    {
+      title: "Construct Binary Tree from Preorder and Inorder Traversal",
+      leetCodeLink: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+      title: "Minimum Depth of Binary Tree",
+      leetCodeLink: "https://leetcode.com/problems/minimum-depth-of-binary-tree/"
+    }
+  ]
+},
   {
     day: 20,
     date: "Jun 20, 2025",
