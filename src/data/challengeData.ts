@@ -521,11 +521,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 20,
-    date: "Jun 20, 2025",
-    topic: "Trees (Binary Tree)",
-    questions: []
-  },
+  day: 20,
+  date: "Jun 20, 2025",
+  topic: "Trees (Binary Tree)",
+  questions: [
+    {
+      title: "Construct Binary Tree from Preorder and Inorder Traversal",
+      leetCodeLink: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+      title: "Path Sum",
+      leetCodeLink: "https://leetcode.com/problems/path-sum/"
+    },
+    {
+      title: "Sum Root to Leaf Numbers",
+      leetCodeLink: "https://leetcode.com/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      title: "N-ary Tree Postorder Traversal",
+      leetCodeLink: "https://leetcode.com/problems/n-ary-tree-postorder-traversal/"
+    },
+    {
+      title: "Maximum Depth of N-ary Tree",
+      leetCodeLink: "https://leetcode.com/problems/maximum-depth-of-n-ary-tree/"
+    }
+  ]
+},
   {
     day: 21,
     date: "Jun 21, 2025",
