@@ -548,11 +548,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 21,
-    date: "Jun 21, 2025",
-    topic: "Binary Search Tree (BST)",
-    questions: []
-  },
+  day: 21,
+  date: "Jun 21, 2025",
+  topic: "Binary Search Tree (BST)",
+  questions: [
+    {
+      title: "Delete Node in a BST",
+      leetCodeLink: "https://leetcode.com/problems/delete-node-in-a-bst/"
+    },
+    {
+      title: "Insert into a Binary Search Tree",
+      leetCodeLink: "https://leetcode.com/problems/insert-into-a-binary-search-tree/"
+    },
+    {
+      title: "Convert Sorted Array to Binary Search Tree",
+      leetCodeLink: "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+    },
+    {
+      title: "Convert BST to Greater Tree",
+      leetCodeLink: "https://leetcode.com/problems/convert-bst-to-greater-tree/"
+    },
+    {
+      title: "Lowest Common Ancestor of a BST",
+      leetCodeLink: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    }
+  ]
+},
   {
     day: 22,
     date: "Jun 22, 2025",
