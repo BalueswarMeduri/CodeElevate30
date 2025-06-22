@@ -575,11 +575,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 22,
-    date: "Jun 22, 2025",
-    topic: "Heaps & Priority Queue",
-    questions: []
-  },
+  day: 22,
+  date: "Jun 22, 2025",
+  topic: "Heaps & Priority Queue",
+  questions: [
+    {
+      title: "Heap Sort",
+      leetCodeLink: "https://leetcode.com/problems/sort-an-array/" // Implemented with Heap Sort
+    },
+    {
+      title: "Relative Ranks",
+      leetCodeLink: "https://leetcode.com/problems/relative-ranks/"
+    },
+    {
+      title: "Kth Largest Element in an Array",
+      leetCodeLink: "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+      title: "Remove Stones to Minimize the Total",
+      leetCodeLink: "https://leetcode.com/problems/remove-stones-to-minimize-the-total/"
+    },
+    {
+      title: "Number of Orders in the Backlog",
+      leetCodeLink: "https://leetcode.com/problems/number-of-orders-in-the-backlog/"
+    }
+  ]
+},
   {
     day: 23,
     date: "Jun 23, 2025",
