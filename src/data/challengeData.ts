@@ -602,11 +602,32 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 23,
-    date: "Jun 23, 2025",
-    topic: "Graphs - BFS/DFS",
-    questions: []
-  },
+  day: 23,
+  date: "Jun 23, 2025",
+  topic: "Graphs - BFS/DFS",
+  questions: [
+    {
+      title: "Number of Provinces",
+      leetCodeLink: "https://leetcode.com/problems/number-of-provinces/"
+    },
+    {
+      title: "Find if Path Exists in Graph",
+      leetCodeLink: "https://leetcode.com/problems/find-if-path-exists-in-graph/"
+    },
+    {
+      title: "Course Schedule",
+      leetCodeLink: "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+      title: "Is Graph Bipartite?",
+      leetCodeLink: "https://leetcode.com/problems/is-graph-bipartite/"
+    },
+    {
+      title: "Flood Fill",
+      leetCodeLink: "https://leetcode.com/problems/flood-fill/"
+    }
+  ]
+},
   {
     day: 24,
     date: "Jun 24, 2025",
