@@ -629,17 +629,59 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 24,
-    date: "Jun 24, 2025",
-    topic: "Graphs - Shortest Path",
-    questions: []
-  },
-  {
-    day: 25,
-    date: "Jun 25, 2025",
-    topic: "Matrix",
-    questions: []
-  },
+  day: 24,
+  date: "Jun 24, 2025",
+  topic: "Graphs - Shortest Path",
+  questions: [
+    {
+      title: "Network Delay Time",
+      leetCodeLink: "https://leetcode.com/problems/network-delay-time/"
+    },
+    {
+      title: "Cheapest Flights Within K Stops",
+      leetCodeLink: "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+      title: "Number of Ways to Arrive at Destination",
+      leetCodeLink: "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/"
+    },
+    {
+      title: "Path with Maximum Probability",
+      leetCodeLink: "https://leetcode.com/problems/path-with-maximum-probability/"
+    },
+    {
+      title: "Path with Minimum Effort",
+      leetCodeLink: "https://leetcode.com/problems/path-with-minimum-effort/"
+    }
+  ]
+},
+ {
+  day: 25,
+  date: "Jun 25, 2025",
+  topic: "Bit Manipulation",
+  questions: [
+    {
+      title: "Number Complement",
+      leetCodeLink: "https://leetcode.com/problems/number-complement/"
+    },
+    {
+      title: "Number of 1 Bits",
+      leetCodeLink: "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    {
+      title: "Power of Two",
+      leetCodeLink: "https://leetcode.com/problems/power-of-two/"
+    },
+    {
+      title: "Power of Four",
+      leetCodeLink: "https://leetcode.com/problems/power-of-four/"
+    },
+    {
+      title: "Hamming Distance",
+      leetCodeLink: "https://leetcode.com/problems/hamming-distance/"
+    }
+  ]
+},
   {
     day: 26,
     date: "Jun 26, 2025",
