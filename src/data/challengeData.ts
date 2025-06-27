@@ -683,17 +683,59 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 26,
-    date: "Jun 26, 2025",
-    topic: "Matrix",
-    questions: []
-  },
-  {
-    day: 27,
-    date: "Jun 27, 2025",
-    topic: "Greedy",
-    questions: []
-  },
+  day: 26,
+  date: "Jun 26, 2025",
+  topic: "Bit Manipulation",
+  questions: [
+    {
+      title: "Decode XORed Array",
+      leetCodeLink: "https://leetcode.com/problems/decode-xored-array/"
+    },
+    {
+      title: "Single Number",
+      leetCodeLink: "https://leetcode.com/problems/single-number/"
+    },
+    {
+      title: "Single Number III",
+      leetCodeLink: "https://leetcode.com/problems/single-number-iii/"
+    },
+    {
+      title: "Sum of Two Integers",
+      leetCodeLink: "https://leetcode.com/problems/sum-of-two-integers/"
+    },
+    {
+      title: "Missing Number",
+      leetCodeLink: "https://leetcode.com/problems/missing-number/"
+    }
+  ]
+},
+{
+  day: 27,
+  date: "Jun 27, 2025",
+  topic: "Greedy",
+  questions: [
+    {
+      title: "Maximum 69 Number",
+      leetCodeLink: "https://leetcode.com/problems/maximum-69-number/"
+    },
+    {
+      title: "Maximum Sum With Exactly K Elements",
+      leetCodeLink: "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/"
+    },
+    {
+      title: "Minimum Time to Type Word Using Special Typewriter",
+      leetCodeLink: "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/"
+    },
+    {
+      title: "Minimum Operations to Make the Array Increasing",
+      leetCodeLink: "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+      title: "Minimum Number of Operations to Convert Time",
+      leetCodeLink: "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/"
+    }
+  ]
+},
   {
     day: 28,
     date: "Jun 28, 2025",
