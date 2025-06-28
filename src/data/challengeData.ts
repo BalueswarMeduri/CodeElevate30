@@ -737,17 +737,59 @@ export const challengeData: Challenge[] = [
   ]
 },
   {
-    day: 28,
-    date: "Jun 28, 2025",
-    topic: "Dynamic Programming (DP)",
-    questions: []
-  },
+  day: 28,
+  date: "Jun 28, 2025",
+  topic: "Dynamic Programming (DP)",
+  questions: [
+    {
+      title: "Climbing Stairs",
+      leetCodeLink: "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+      title: "Min Cost Climbing Stairs",
+      leetCodeLink: "https://leetcode.com/problems/min-cost-climbing-stairs/"
+    },
+    {
+      title: "Perfect Squares",
+      leetCodeLink: "https://leetcode.com/problems/perfect-squares/"
+    },
+    {
+      title: "Decode Ways",
+      leetCodeLink: "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+      title: "Unique Binary Search Trees",
+      leetCodeLink: "https://leetcode.com/problems/unique-binary-search-trees/"
+    }
+  ]
+},
   {
-    day: 29,
-    date: "Jun 29, 2025",
-    topic: "Dynamic Programming (DP)",
-    questions: []
-  },
+  day: 29,
+  date: "Jun 29, 2025",
+  topic: "Dynamic Programming (DP)",
+  questions: [
+    {
+      title: "Coin Change II",
+      leetCodeLink: "https://leetcode.com/problems/coin-change-ii/"
+    },
+    {
+      title: "Best Time to Buy and Sell Stock II",
+      leetCodeLink: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+      title: "Unique Paths II",
+      leetCodeLink: "https://leetcode.com/problems/unique-paths-ii/"
+    },
+    {
+      title: "Ones and Zeroes",
+      leetCodeLink: "https://leetcode.com/problems/ones-and-zeroes/"
+    },
+    {
+      title: "Shopping Offers",
+      leetCodeLink: "https://leetcode.com/problems/shopping-offers/"
+    }
+  ]
+},
   {
     day: 30,
     date: "Jun 30, 2025",
